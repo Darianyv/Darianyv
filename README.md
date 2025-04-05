@@ -20,7 +20,12 @@
 
 ###
 
-<p align="left">I'm Dariana Vivas from Venezuela<br><br>- 🔭 I’m working as analista de implementacion<br>- 📚 I'm currently learning jenkins y docker<br>- ⚡ In my free time I sacar a pasear a mi perro</p>
+<p align="left">
+I'm Dariana Vivas from Venezuela<br><br>
+- 🔭 I’m working as an Implementation Analyst<br>
+- 📚 I'm currently learning Jenkins and Docker<br>
+- ⚡ In my free time, I enjoy relaxing at home
+</p>
 
 ###
 
